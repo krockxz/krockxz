@@ -1,1 +1,1 @@
-**"Code is like humor. When you have to explain it, it's bad." – Cory House** 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22+%E2%80%93+Cory+House)](https://git.io/typing-svg)
