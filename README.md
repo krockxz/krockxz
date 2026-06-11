@@ -4,8 +4,6 @@
   </a>
 </div>
 
-**Full-stack engineer focused on building performant systems, scalable architecture, and developer tooling.**
-
 ### Selected Projects
 
 *   **[Gostman](https://github.com/krockxz/gostman)**
@@ -13,7 +11,7 @@
     *Tech: Go, React, Wails*
 
 *   **[Codebase-indexer](https://github.com/krockxz/codebase-indexer)**
-    Offline semantic code search CLI. Uses tree-sitter for syntax-aware chunking and runs hybrid BM25 + vector searches using local ONNX models. 
+    Offline semantic code search CLI similar to cursor indexing. Uses tree-sitter for syntax-aware chunking and runs hybrid BM25 + vector searches using local ONNX models. 
     *Tech: Rust, Tantivy, ONNX, Tree-sitter*
 
 *   **[TaskFlow](https://github.com/krockxz/TaskFlow)**
