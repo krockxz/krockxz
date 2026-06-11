@@ -4,4 +4,25 @@
   </a>
 </div>
 
-![My GitHub Contribution Game](game.gif)
+**Full-stack engineer focused on building performant systems, scalable architecture, and developer tooling.**
+
+### Selected Projects
+
+*   **[Gostman](https://github.com/krockxz/gostman)**
+    A local-first, lightweight API client for REST, GraphQL, and WebSockets. Engineered as a privacy-focused, low-memory alternative to Postman. 
+    *Tech: Go, React, Wails*
+
+*   **[Codebase-indexer](https://github.com/krockxz/codebase-indexer)**
+    Offline semantic code search CLI. Uses tree-sitter for syntax-aware chunking and runs hybrid BM25 + vector searches using local ONNX models. 
+    *Tech: Rust, Tantivy, ONNX, Tree-sitter*
+
+*   **[TaskFlow](https://github.com/krockxz/TaskFlow)**
+    Self-hostable asynchronous task management platform. Features real-time synchronization, GitHub OAuth/Issue sync, and strict PostgreSQL Row Level Security. 
+    *Tech: Next.js, Supabase, Prisma, PostgreSQL*
+
+*   **[Un-nexted](https://github.com/krockxz/Un-nexted)**
+    A raw, custom-built server-side rendering (SSR) pipeline. Developed to demonstrate the foundational routing, bundling, and hydration architecture of modern React frameworks. 
+    *Tech: React, Node.js, SSR Architecture*
+
+*   **[MailFlowAI](https://github.com/krockxz/MailFlowAI)**
+    AI-powered email assistant architected to automate workflows and enhance developer/professional productivity.
