@@ -10,7 +10,7 @@
     **Deconstructing the magic of modern frameworks.** A bare-metal server-side rendering pipeline built from scratch to expose how bundling, routing, and hydration actually work.
 
 *   **[TaskFlow](https://github.com/krockxz/TaskFlow)** `Next.js` `Supabase` `PostgreSQL`
-    **Self-hosted async coordination.** A real-time task management hub for distributed teams, locked down by strict database-level Row Level Security and tightly synced with GitHub.
+    **Self-hosted async coordination.** A real-time task management hub for distributed teams tightly synced with GitHub.
 
 *   **[MailFlowAI](https://github.com/krockxz/MailFlowAI)** `AI/LLMs` `Workflow Automation`
     **High-performance inbox intelligence.** An AI-native email assistant designed to ruthlessly eliminate busywork and automate professional communication.
